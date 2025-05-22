@@ -16,10 +16,10 @@ Piccola repository dove sono presenti diverse traduzioni di mod curate da me per
 
 
 
-> 📝 **In lista** — In attesa per essere tradotta
+> 📝 **In lista** — In attesa per essere tradotta  
 > 🔧 **Lavorazione** — Traduzione in corso  
 > 🧪 **Testing** — Traduzione completata, in fase di verifica/test  
-> ✅ **Tradotta** — Rilasciata su NexusMods
+> ✅ **Tradotta** — Rilasciata su NexusMods  
 
 ---
 
