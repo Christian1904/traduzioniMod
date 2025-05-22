@@ -10,7 +10,13 @@ Piccola repository dove sono presenti diverse traduzioni di mod curate da me per
 | Mod                        | Gioco            | Stato        | Note            |
 |---------------------------|------------------|--------------|-------------------------------|
 | **[CP_LBXLW's RedFox and RainFrog Catalogue](https://www.nexusmods.com/stardewvalley/mods/34044)**   | 🐓 Stardew Valley    |[✅ Tradotta](https://www.nexusmods.com/stardewvalley/mods/34159)| \\\ |
+| **[Location Compass](https://github.com/Bouhm/stardew-valley-mods/tree/main/LocationCompass)** | 🐓 Stardew Valley | 📝 In lista | 
+| **[NPC Map Location](https://github.com/Bouhm/stardew-valley-mods/tree/main/NPCMapLocations)** | 🐓 Stardew Valley | 📝 In lista | 🍱 Aggiormaneto traduzione esistente | 
 
+
+
+
+> 📝 **In lista** — In attesa per essere tradotta
 > 🔧 **Lavorazione** — Traduzione in corso  
 > 🧪 **Testing** — Traduzione completata, in fase di verifica/test  
 > ✅ **Tradotta** — Rilasciata su NexusMods
