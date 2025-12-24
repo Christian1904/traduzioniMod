@@ -1,0 +1,314 @@
+{
+
+     //Definition of craftable items
+     
+     "FruitTreesReforged.SaplingPottingSoil.DisplayName": "Terriccio per alberi da frutto",
+     "FruitTreesReforged.SaplingPottingSoil.Description": "Usalo con un'incubatrice per alberi da frutto per far crescere un albero da frutto da un seme.",
+     
+     "FruitTreesReforged.SaplingIncubator.DisplayName": "Incubatrice per alberi da frutto",
+     "FruitTreesReforged.SaplingIncubator.Description": "Inserisci un seme di un albero da frutto con del terriccio per farlo crescere in un giovane e sano albero da frutto.",
+     
+     "FruitTreesReforged.FruitTreeFertilizer.DisplayName": "Fertilizzante per alberi da frutto",
+     "FruitTreesReforged.FruitTreeFertilizer.Description": "Usalo su un albero da frutto per raddoppiare la sua velocità di crescita.",
+     
+     "FruitTreesReforged.SeedMaker.Description": "Inserisci dentro delle colture per produrre una quantità variabile di semi. Funziona anche con i frutti degli alberi!",
+     
+     
+     //Vanilla - Definition of fruit seeds
+     
+     "FruitTreesReforged.CherryPit.DisplayName": "Nocciolo di ciliegia",
+     "FruitTreesReforged.CherryPit.Description": "Il piccolo rotondo nocciolo di ciliegia.",
+     
+     "FruitTreesReforged.ApricotPit.DisplayName": "Nocciolo di albicocca",
+     "FruitTreesReforged.ApricotPit.Description": "Il duro nocciolo all'interno di un'albicocca.",
+     
+     "FruitTreesReforged.PeachPit.DisplayName": "Nocciolo di pesca",
+     "FruitTreesReforged.PeachPit.Description": "Il duro nocciolo all'interno di una pesca.",
+     
+     "FruitTreesReforged.OrangeSeeds.DisplayName": "Semi di arancia",
+     "FruitTreesReforged.OrangeSeeds.Description": "I semi chiari e a punta all'interno di un'arancia.",
+     
+     "FruitTreesReforged.PomegranateSeeds.DisplayName": "Semi di melograna",
+     "FruitTreesReforged.PomegranateSeeds.Description": "I semi all'interno di una melograna.",
+     
+     "FruitTreesReforged.AppleSeeds.DisplayName": "Semi di mela",
+     "FruitTreesReforged.AppleSeeds.Description": "I semini neri all'interno di una mela.",
+     
+     "FruitTreesReforged.MangoSeed.DisplayName": "Seme di mango",
+     "FruitTreesReforged.MangoSeed.Description": "Il grande seme fibroso all'interno di un mango.",
+     
+     "FruitTreesReforged.BananaSeeds.DisplayName": "Semi di banana",
+     "FruitTreesReforged.BananaSeeds.Description": "Dei semini neri all'interno di una banana.",
+     
+     
+     //SVE - Definition of fruit seeds
+     
+     "FruitTreesReforged.SVE.Pear.DisplayName": "Semi di pera",
+     "FruitTreesReforged.SVE.Pear.Description": "I semi scuri all'interno di una pera.",
+     
+     "FruitTreesReforged.SVE.Nectarine.DisplayName": "Nocciolo di nettarina",
+     "FruitTreesReforged.SVE.Nectarine.Description": "Il grande nocciolo all'interno di una nettarina.",
+     
+     "FruitTreesReforged.SVE.Persimmon.DisplayName": "Seme di cachi",
+     "FruitTreesReforged.SVE.Persimmon.Description": "Il seme all'interno di un cachi.",
+     
+     
+     //Ridgeside Village - Definition of fruit seeds
+     
+     "FruitTreesReforged.Ridgeside.PlumcotPit.DisplayName": "Nocciolo di prugna di montagna",
+     "FruitTreesReforged.Ridgeside.PlumcotPit.Description": "Il duro nocciolo all'interno di una prugna di montagna.",
+     
+     "FruitTreesReforged.Ridgeside.PluotPit.DisplayName": "Nocciolo di amolo",
+     "FruitTreesReforged.Ridgeside.PluotPit.Description": "Il duro nocciolo rotondo all'interno di un amolo.",
+     
+     "FruitTreesReforged.Ridgeside.TangeloSeeds.DisplayName": "Semi di amolo del deserto",
+     "FruitTreesReforged.Ridgeside.TangeloSeeds.Description": "I piccoli semi pallidi all'interno di un amolo del deserto.",
+     
+     "FruitTreesReforged.Ridgeside.UgliSeeds.DisplayName": "Semi di ugli tropicale",
+     "FruitTreesReforged.Ridgeside.UgliSeeds.Description": "I bellissimi grandi semi all'interno di un ugli tropicale.",
+     
+     "FruitTreesReforged.Ridgeside.RangpurSeeds.DisplayName": "Semi di limandarino paradisiaco",
+     "FruitTreesReforged.Ridgeside.RangpurSeeds.Description": "I piccoli semi pallidi all'interno di un limandarino paradisiaco.",
+     
+     "FruitTreesReforged.Ridgeside.EmberBloodSeeds.DisplayName": "Semi di lime sanguinello",
+     "FruitTreesReforged.Ridgeside.EmberBloodSeeds.Description": "I piccoli semi all'interno di un lime sanguinello.",
+     
+     "FruitTreesReforged.Ridgeside.LimequatSeeds.DisplayName": "Semi di limequat settentrionale",
+     "FruitTreesReforged.Ridgeside.LimequatSeeds.Description": "I piccoli semi verdi all'interno di un limequat settentrionale.",
+     
+     "FruitTreesReforged.Ridgeside.JostaberrySeeds.DisplayName": "Semi di jostaberry di montagna",
+     "FruitTreesReforged.Ridgeside.JostaberrySeeds.Description": "I piccoli semi neri all'interno di un jostaberry di montagna.",
+     
+     
+     //Cornucopia - Definition of fruit seeds
+     
+     "FruitTreesReforged.Cornucopia.AvocadoPit.DisplayName": "Nocciolo di avocado",
+     "FruitTreesReforged.Cornucopia.AvocadoPit.Description": "Il grande nocciolo all'interno di un avocado.",
+     
+     "FruitTreesReforged.Cornucopia.PearSeeds.DisplayName": "Semi di pera",
+     "FruitTreesReforged.Cornucopia.PearSeeds.Description": "I semi scuri all'interno di una pera.",
+     
+     //Cornucopia - Definition of fruit seeds (extended trees pack)
+     
+     "FruitTreesReforged.Cornucopia.BreadfruitSeed.DisplayName": "Semi di frutto del pane",
+     "FruitTreesReforged.Cornucopia.BreadfruitSeed.Description": "Il grande seme di un frutto del pane.",
+     
+     "FruitTreesReforged.Cornucopia.DragonfruitSeeds.DisplayName": "Semi di frutto del drago",
+     "FruitTreesReforged.Cornucopia.DragonfruitSeeds.Description": "I piccoli semi neri all'interno di un frutto del drago.",
+     
+     "FruitTreesReforged.Cornucopia.DurianSeed.DisplayName": "Seme di durione",
+     "FruitTreesReforged.Cornucopia.DurianSeed.Description": "Il grande seme all'interno di un durione.",
+     
+     "FruitTreesReforged.Cornucopia.FigSeeds.DisplayName": "Semi di fico",
+     "FruitTreesReforged.Cornucopia.FigSeeds.Description": "I piccoli semi all'interno di un fico.",
+     
+     "FruitTreesReforged.Cornucopia.GrapefruitSeeds.DisplayName": "Semi di pompelmo",
+     "FruitTreesReforged.Cornucopia.GrapefruitSeeds.Description": "I semi di un pompelmo.",
+     
+     "FruitTreesReforged.Cornucopia.LemonSeeds.DisplayName": "Semi di limone",
+     "FruitTreesReforged.Cornucopia.LemonSeeds.Description": "I semi di un limone.",
+     
+     "FruitTreesReforged.Cornucopia.LimeSeeds.DisplayName": "Semi di lime",
+     "FruitTreesReforged.Cornucopia.LimeSeeds.Description": "I semi di un lime.",
+     
+     "FruitTreesReforged.Cornucopia.LycheePit.DisplayName": "Nocciolo di litchi",
+     "FruitTreesReforged.Cornucopia.LycheePit.Description": "Il luccicante nocciolo all'interno di un litchi.",
+     
+     "FruitTreesReforged.Cornucopia.NectarinePit.DisplayName": "Nocciolo di nettarina",
+     "FruitTreesReforged.Cornucopia.NectarinePit.Description": "Il grande nocciolo all'interno di una nettarina.",
+     
+     "FruitTreesReforged.Cornucopia.PapayaSeeds.DisplayName": "Semi di papaya",
+     "FruitTreesReforged.Cornucopia.PapayaSeeds.Description": "I piccoli semi rotondi all'interno di una papaya.",
+     
+     "FruitTreesReforged.Cornucopia.PersimmonSeed.DisplayName": "Seme di cachi",
+     "FruitTreesReforged.Cornucopia.PersimmonSeed.Description": "Il seme all'interno di un cachi.",
+     
+     "FruitTreesReforged.Cornucopia.PlantainSeeds.DisplayName": "Semi di platano",
+     "FruitTreesReforged.Cornucopia.PlantainSeeds.Description": "I semi all'interno di una banana platano.",
+     
+     "FruitTreesReforged.Cornucopia.PomeloSeeds.DisplayName": "Semi di pomelo",
+     "FruitTreesReforged.Cornucopia.PomeloSeeds.Description": "I semi di un pomelo.",
+     
+     "FruitTreesReforged.Cornucopia.UmePit.DisplayName": "Nocciolo di ume",
+     "FruitTreesReforged.Cornucopia.UmePit.Description": "Il nocciolo all'interno di un ume.",
+     
+     "FruitTreesReforged.Cornucopia.YuzuSeeds.DisplayName": "Semi di yuzu",
+     "FruitTreesReforged.Cornucopia.YuzuSeeds.Description": "I semi di uno yuzu.",
+     
+     //Cornucopia - Definition of fruit seeds (extended herbs pack)
+     
+     "FruitTreesReforged.Cornucopia.CamphorSeeds.DisplayName": "Semi di canforo",
+     "FruitTreesReforged.Cornucopia.CamphorSeeds.Description": "I semi di un albero di canfora.",
+     
+     "FruitTreesReforged.Cornucopia.CinnamonSeeds.DisplayName": "Semi di cannella",
+     "FruitTreesReforged.Cornucopia.CinnamonSeeds.Description": "Il seme dell'albero di cannella.",
+     
+     "FruitTreesReforged.Cornucopia.EucalyptusSeed.DisplayName": "Semi di eucalipto",
+     "FruitTreesReforged.Cornucopia.EucalyptusSeed.Description": "Il piccolo seme di un albero di eucalipto.",
+     
+     "FruitTreesReforged.Cornucopia.EucalyptusBark.DisplayName": "Corteccia di eucalipto",
+     "FruitTreesReforged.Cornucopia.EucalyptusBark.Description": "Inutile.",
+     
+     "FruitTreesReforged.Cornucopia.MelaleucaSeeds.DisplayName": "Semi di melaleuca",
+     "FruitTreesReforged.Cornucopia.MelaleucaSeeds.Description": "I piccoli semi di un albero di melaleuca.",
+     
+     //Cornucopia - Description of alternative Hardwood walnut tree
+     
+     "FruitTreesReforged.Cornucopia.HardwoodWalnutDescription": "In 28 giorni produce un noce adulto. Dà legno duro in primavera ed estate, e noci in autunno. Cresce soltanto se gli 8 \"tasselli\" intorno ad esso sono vuoti.",
+     
+     //Cornucopia - Description of alternative Evergreen Eucalyptus tree
+     
+     "FruitTreesReforged.Cornucopia.EvergreenEucalyptusDescription": "In 28 giorni produce un eucalipto adulto. Dà foglie tutto l'anno. Cresce soltanto se gli 8 \"tasselli\" intorno ad esso sono vuoti.",
+     
+     
+     //Letter from Demetrius
+     
+     "FruitTreesReforged.LetterFreeIncubator": "Buongiorno @! Sono io, Demetrius, il tuo vicino scienziato.^Ho appena concluso uno studio sulla crescita dei ciliegi e non ho più bisogno della mia incubatrice per alberi da frutto. Ho pensato che potesse servirti. Se non ti serve, puoi tranquillamente buttarla via!^  -Demetrius%item id FruitTreesReforged_SaplingIncubator 1 %%[#]Incubatrice per alberi da frutto di Demetrius",
+     
+     
+
+
+     //Config panel
+     
+     "FruitTreesReforged.Config.FeaturesTitle": "Funzionalità mod",
+     
+     "FruitTreesReforged.Config.IncubatorDisplayName": "Incubatrice per alberi da frutto *",
+     "FruitTreesReforged.Config.IncubatorDescription": "Aggiunge una nuova macchina al gioco che consente di far crescere nuovi alberi da frutto dai semi dei loro frutti.",
+     
+     "FruitTreesReforged.Config.ChoppingDownDisplayName": "Abbattere gli alberi da frutto fornisce legno duro",
+     "FruitTreesReforged.Config.ChoppingDownDescription": "Abbattere gli alberi da frutto fornisce legno duro ma nessun albero da frutto.",
+     
+     "FruitTreesReforged.Config.FertilizerDisplayName": "Fertilizzante per alberi da frutto *",
+     "FruitTreesReforged.Config.FertilizerDescription": "Aggiunge un nuovo fertilizzante al gioco in grado di accelerare la crescita degli alberi da frutto.",
+     
+     "FruitTreesReforged.Config.RebalanceTitle": "Cambiamenti sugli alberi da frutto e i loro frutti",
+     
+     "FruitTreesReforged.Config.RebalanceVanillaDisplayName": "Riequilibra gli alberi da frutto vanilla e i loro frutti *",
+     "FruitTreesReforged.Config.RebalanceVanillaDescription": "Modifica i valori in oro, le statistiche e le quantità prodotte per rendere gli alberi da frutto più redditizi.",
+     
+     "FruitTreesReforged.Config.RebalanceSVEDisplayName": "Riequilibra gli alberi da frutto di SVE e i loro frutti *",
+     "FruitTreesReforged.Config.RebalanceSVEDescription": "Modifica i valori in oro, le statistiche e le quantità prodotte per rendere gli alberi da frutto di SVE più redditizi.",
+     
+     "FruitTreesReforged.Config.RebalanceRidgesideDisplayName": "Riequilibra gli alberi da frutto di Ridgeside Village e i loro frutti *",
+     "FruitTreesReforged.Config.RebalanceRidgesideDescription": "Modifica i valori in oro, le statistiche e le quantità prodotte per rendere gli alberi da frutto di Ridgeside Village più redditizi.",
+     
+     "FruitTreesReforged.Config.RebalanceCornucopiaDisplayName": "Riequilibra gli alberi da frutto di Cornucopia e i loro frutti *",
+     "FruitTreesReforged.Config.RebalanceCornucopiaDescription": "Modifica i valori in oro, le statistiche e le quantità prodotte per rendere gli alberi da frutto di Cornucopia più redditizi.",
+     
+     "FruitTreesReforged.Config.RebalanceGrowableForageDisplayName": "Riequilibra gli alberi da frutto di Growable Forage e i loro frutti *",
+     "FruitTreesReforged.Config.RebalanceGrowableForageDescription": "Modifica i valori in oro, le statistiche e le quantità prodotte per rendere gli alberi da frutto di Growable Forage più redditizi.",
+     
+     "FruitTreesReforged.Config.CornucopiaAltEucalyptusDisplayName": "Eucalipto sempreverde *",
+     "FruitTreesReforged.Config.CornucopiaAltEucalyptusDescription": "(solo se stai usando Cornucopia Extended tree pack e il riequilibrio di Cornucopia è ATTIVO) L'eucalipto di Cornucopia produrrà foglie tutto l'anno (e anche l'inutile corteccia! Proprio come alcuni veri eucalipti!).",
+     
+     "FruitTreesReforged.Config.CornucopiaAltWalnutTreeDisplayName": "Noce legno duro *",
+     "FruitTreesReforged.Config.CornucopiaAltWalnutTreeDescription": "(solo se stai usando Cornucopia Extended tree pack e il riequilibrio di Cornucopia è ATTIVO) Il noce di Cornucopia produrrà meno noci, ma darà legno duro in primavera e in estate.",
+     
+     "FruitTreesReforged.Config.DifficultyTitle": "Impostazioni di difficoltà",
+     "FruitTreesReforged.Config.DifficultyTooltip": "Puoi rendere più facile la gestione degli alberi da frutto con le seguenti opzioni.",
+     
+     "FruitTreesReforged.Config.IncubatorDifficultyDisplayName": "Progetto dell'incubatrice per alberi da frutto facilitato *",
+     "FruitTreesReforged.Config.IncubatorDifficultyDescription": "Rende più facile la fabbricazione delle incubatrici per alberi da frutto. Se prevedi di averne in abbondanza, questa opzione fa per te.",
+     
+     "FruitTreesReforged.Config.FertilizerDifficultyDisplayName": "Ricetta del fertilizzante per alberi da frutto facilitata *",
+     "FruitTreesReforged.Config.FertilizerDifficultyDescription": "Rende più facile la fabbricazione del fertilizzante per alberi da frutto.",
+     
+     "FruitTreesReforged.Config.RestartWarningText": "Se modifichi le opzioni contrassegnate con il simbolo * devi riavviare il gioco.",
+     
+     
+     //In-game tips
+     
+     "FruitTreesReforged.Tips.IncubatorIndoor": "Le incubatrici per alberi da frutto devono essere posizionate all'interno.",
+     
+     "FruitTreesReforged.Tips.FertilizerAlready": "Già fertilizzato.",
+     "FruitTreesReforged.Tips.FertilizerMature": "Già cresciuto.",
+     
+     
+     //New 1.2 stuff - config panel
+    
+    "FruitTreesReforged.Config.ProdMultiplierName": "Moltiplicatore di produzione",
+    "FruitTreesReforged.Config.ProdMultiplierDescription": "Oltre al riequilibrio, puoi moltiplicare da questo valore il numero di tutti i frutti prodotti dagli alberi. Predefinito 100%.",
+    
+    "FruitTreesReforged.Config.GreenhouseProdMultiplierName": "Moltiplicatore di produzione (serre)",
+    "FruitTreesReforged.Config.GreenhouseProdMultiplierDescription": "Come l'impostazione precedente, ma si applica specificatamente agli alberi da frutto piantati in serre e altri luoghi coltivabili tutto l'anno. Predefinito 40%.",
+    
+    "FruitTreesReforged.Config.LevelProdMultiplierName": "Moltiplicatore di produzione per livello fattoria",
+    "FruitTreesReforged.Config.LevelProdMultiplierDescription": "Fa aumentare lentamente il numero di frutti prodotti con il livello di abilità fattoria del giocatore principale. Al livello fattoria 0 è x1.0, al livello fattoria 10 è il valore qui impostato.",
+    
+    "FruitTreesReforged.Config.DefaultLabel": "Predefinito",
+    "FruitTreesReforged.Config.DisabledLabel": "Disabilitato",
+    "FruitTreesReforged.Config.MaximumLabel": "Massimo",
+     
+    "FruitTreesReforged.Config.GreenhouseDifficultyDisplayName": "Interrompi la produzione annuale nelle serre",
+    "FruitTreesReforged.Config.GreenhouseDifficultyDescription": "Attiva questa opzione per impedire agli alberi da frutto di produrre tutto l'anno nelle serre e in altri luoghi coltivabili tutto l'anno.",
+
+    "FruitTreesReforged.Config.RebalanceVMVDisplayName": "Riequilibra gli alberi da frutto di Visit Mount Vapius e i loro frutti *",
+    "FruitTreesReforged.Config.RebalanceVMVDescription": "Modifica le quantità prodotte dagli alberi da frutto di Visit Mount Vapius per adattarle meglio alle impostazioni di Fruit Trees Reforged.",
+
+    "FruitTreesReforged.Config.RebalanceNAGDisplayName": "Riequilibra gli alberi da frutto di Nando's Artisan Goods e i loro frutti *",
+    "FruitTreesReforged.Config.RebalanceNAGDescription": "Modifica i valori in oro, le statistiche e le quantità prodotte per rendere gli alberi da frutto di Nando's Artisan Goods più redditizi.",
+
+    "FruitTreesReforged.Config.RebalanceWAGDisplayName": "Riequilibra il valore in oro dei frutti degli alberi di Wildflour's Atelier Goods *",
+    "FruitTreesReforged.Config.RebalanceWAGDescription": "Gli alberi non produrranno di più, poiché sono bilanciati per soddisfare le esigenze delle ricette di WAG.",
+    "FruitTreesReforged.Config.ReplaceWAGSaplingMakingDisplayName": "Sostituisci il procedimento nativo di WAG per creare nuove piantine *",
+    "FruitTreesReforged.Config.ReplaceWAGSaplingMakingDescription": "Se deselezioni questa opzione, non potrai utilizzare l'incubatrice per alberi da frutto di Wildflour's Atelier Goods.",
+    
+    "FruitTreesReforged.Config.TransgenderPomegranateTreeDisplayName": "Melograno transgender",
+    "FruitTreesReforged.Config.TransgenderPomegranateTreeDescription": "I tuoi melograni sono transgender e splendidi.",
+     
+     
+     //New 1.2 stuff - definition of fruit seeds
+
+    "FruitTreesReforged.VMV.FrostAppleSeeds.DisplayName": "Semi di mela del gelo",
+    "FruitTreesReforged.VMV.FrostAppleSeeds.Description": "Questi splendenti semi blu scuro emettono una delicata luce bioluminescente.",
+
+    "FruitTreesReforged.VMV.OlivePit.DisplayName": "Nocciolo d'oliva",
+    "FruitTreesReforged.VMV.OlivePit.Description": "Il duro nocciolo all'interno di un'oliva.",
+
+    "FruitTreesReforged.VMV.WhiteGrapeSeeds.DisplayName": "Semi di uva bianca",
+    "FruitTreesReforged.VMV.WhiteGrapeSeeds.Description": "Semi di una vite d’uva a graticcio, simile a un albero.",
+
+    "FruitTreesReforged.VMV.CasalotierSeed.DisplayName": "Semi di casalotier",
+    "FruitTreesReforged.VMV.CasalotierSeed.Description": "Questo lungo seme scuro è in realtà un piccolo fagiolo essiccato contenente diversi semi.",
+
+    "FruitTreesReforged.NAG.YerbaMateSeeds.DisplayName": "Semi di yerba mate",
+    "FruitTreesReforged.NAG.YerbaMateSeeds.Description": "I piccoli semi di un albero di yerba mate.",
+    
+    "FruitTreesReforged.Cornucopia.CocoaBean.DisplayName": "Fave di cacao",
+    "FruitTreesReforged.Cornucopia.CocoaBean.Description": "Un seme bianco e appiccicoso dentro una cabossa di cacao, pronto a far crescere un nuovo albero.",
+    
+    "FruitTreesReforged.Cornucopia.Hibiscus.Description": "In 28 giorni produce un albero di ibisco maturo. Dà fiori in primavera ed estate. Cresce soltanto se gli 8 \"tasselli\" intorno ad esso sono vuoti.",
+    
+    "FruitTreesReforged.Cornucopia.HibiscusSeeds.DisplayName": "Semi d'ibisco",
+    "FruitTreesReforged.Cornucopia.HibiscusSeeds.Description": "Semi grigi che sembrano piccoli fagioli.",
+    
+    "FruitTreesReforged.Cornucopia.JasmineSeed.DisplayName": "Semi di gelsomino",
+    "FruitTreesReforged.Cornucopia.JasmineSeed.Description": "Un bellissimo seme con una forma particolare.",
+    
+    "FruitTreesReforged.Cornucopia.MagnoliaSeed.DisplayName": "Semi di magnolia",
+    "FruitTreesReforged.Cornucopia.MagnoliaSeed.Description": "Un grande e bellissimo seme scarlatto.",
+    
+    "FruitTreesReforged.Cornucopia.WisteriaSeeds.DisplayName": "Semi di glicine",
+    "FruitTreesReforged.Cornucopia.WisteriaSeeds.Description": "Semi piatti con una tinta scura profonda.",
+    
+    "FruitTreesReforged.Cornucopia.YlangYlangSeeds.DisplayName": "Semi di ilang-ilang",
+    "FruitTreesReforged.Cornucopia.YlangYlangSeeds.Description": "Piccoli semi color caffè fresco.",
+
+    "FruitTreesReforged.WAG.ElderberrySeeds.DisplayName": "Semi di sambuco",
+    "FruitTreesReforged.WAG.ElderberrySeeds.Description": "I piccoli semi all'interno di un sambuco.",
+    
+    "FruitTreesReforged.WAG.OlivePit.DisplayName": "Nocciolo d'oliva dell'Isola di Fern",
+    "FruitTreesReforged.WAG.OlivePit.Description": "Il duro nocciolo all'interno di un'oliva dell'Isola di Fern.",
+    
+    "FruitTreesReforged.WAG.LemonSeeds.DisplayName": "Semi di un piccolo limone",
+    "FruitTreesReforged.WAG.LemonSeeds.Description": "I semi di un piccolo limone.",
+    
+    "FruitTreesReforged.WAG.LimeSeeds.DisplayName": "Semi di un piccolo lime",
+    "FruitTreesReforged.WAG.LimeSeeds.Description": "I semi di un piccolo lime.",
+    
+    "FruitTreesReforged.WAG.AniseSeeds.DisplayName": "Semi di anice stellato",
+    "FruitTreesReforged.WAG.AniseSeeds.Description": "I semi lisci e lucidi dell'albero di anice stellato.",
+    
+    "FruitTreesReforged.WAG.CacaoBean.DisplayName": "Fava di cacao selvatica",
+    "FruitTreesReforged.WAG.CacaoBean.Description": "Il seme bianco e appiccicoso all'interno di una cabossa di cacao selvatica, pronto a far crescere un nuovo albero.",
+}
