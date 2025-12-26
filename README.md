@@ -10,6 +10,7 @@ Piccola repository dove sono presenti diverse traduzioni di mod curate da me per
 |---------------------------|------------------|--------------|-------------------------------|
 | **[CP_LBXLW's RedFox and RainFrog Catalogue](https://www.nexusmods.com/stardewvalley/mods/34044)**   | 🐓 Stardew Valley    |[✅](https://www.nexusmods.com/stardewvalley/mods/34159)| \\\ |
 |**[Map Teleport](https://www.nexusmods.com/stardewvalley/mods/30611)** |🐓 Stardew Valley |[✅](https://github.com/StardewModders/mod-translations/issues/69#issuecomment-2901919858) | 🔀 Traduzione integrata
+| **[Fruit Trees Reforged](https://www.nexusmods.com/stardewvalley/mods/38590)**   | 🐓 Stardew Valley    |[✅](https://github.com/Christian1904/traduzioniMod/tree/main/Stardew%20Valley/FruitTreesReforged)| 🔀 Traduzione integrata |
 | **[Location Compass](https://github.com/Bouhm/stardew-valley-mods/tree/main/LocationCompass)** | 🐓 Stardew Valley | 📝 | 
 | **[NPC Map Location](https://github.com/Bouhm/stardew-valley-mods/tree/main/NPCMapLocations)** | 🐓 Stardew Valley | 📝 | 🍱 Aggiornamento traduzione esistente | 
 
