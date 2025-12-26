@@ -1,0 +1,90 @@
+{
+   
+     //Config panel
+     
+     "FruitTreesReforged.Config.FeaturesTitle": "Funzionalità mod",
+     
+     "FruitTreesReforged.Config.IncubatorDisplayName": "Incubatrice per alberi da frutto *",
+     "FruitTreesReforged.Config.IncubatorDescription": "Aggiunge una nuova macchina al gioco che consente di far crescere nuovi alberi da frutto dai semi dei loro frutti.",
+     
+     "FruitTreesReforged.Config.ChoppingDownDisplayName": "Abbattere gli alberi da frutto fornisce legno duro",
+     "FruitTreesReforged.Config.ChoppingDownDescription": "Abbattere gli alberi da frutto fornisce legno duro ma nessun albero da frutto.",
+     
+     "FruitTreesReforged.Config.FertilizerDisplayName": "Fertilizzante per alberi da frutto *",
+     "FruitTreesReforged.Config.FertilizerDescription": "Aggiunge un nuovo fertilizzante al gioco in grado di accelerare la crescita degli alberi da frutto.",
+     
+     "FruitTreesReforged.Config.RebalanceTitle": "Cambiamenti sugli alberi da frutto e i loro frutti",
+     
+     "FruitTreesReforged.Config.RebalanceVanillaDisplayName": "Riequilibra gli alberi da frutto vanilla e i loro frutti *",
+     "FruitTreesReforged.Config.RebalanceVanillaDescription": "Modifica i valori in oro, le statistiche e le quantità prodotte per rendere gli alberi da frutto più redditizi.",
+     
+     "FruitTreesReforged.Config.RebalanceSVEDisplayName": "Riequilibra gli alberi da frutto di SVE e i loro frutti *",
+     "FruitTreesReforged.Config.RebalanceSVEDescription": "Modifica i valori in oro, le statistiche e le quantità prodotte per rendere gli alberi da frutto di SVE più redditizi.",
+     
+     "FruitTreesReforged.Config.RebalanceRidgesideDisplayName": "Riequilibra gli alberi da frutto di Ridgeside Village e i loro frutti *",
+     "FruitTreesReforged.Config.RebalanceRidgesideDescription": "Modifica i valori in oro, le statistiche e le quantità prodotte per rendere gli alberi da frutto di Ridgeside Village più redditizi.",
+     
+     "FruitTreesReforged.Config.RebalanceCornucopiaDisplayName": "Riequilibra gli alberi da frutto di Cornucopia e i loro frutti *",
+     "FruitTreesReforged.Config.RebalanceCornucopiaDescription": "Modifica i valori in oro, le statistiche e le quantità prodotte per rendere gli alberi da frutto di Cornucopia più redditizi.",
+     
+     "FruitTreesReforged.Config.RebalanceGrowableForageDisplayName": "Riequilibra gli alberi da frutto di Growable Forage e i loro frutti *",
+     "FruitTreesReforged.Config.RebalanceGrowableForageDescription": "Modifica i valori in oro, le statistiche e le quantità prodotte per rendere gli alberi da frutto di Growable Forage più redditizi.",
+     
+     "FruitTreesReforged.Config.CornucopiaAltEucalyptusDisplayName": "Eucalipto sempreverde *",
+     "FruitTreesReforged.Config.CornucopiaAltEucalyptusDescription": "(solo se stai usando Cornucopia Extended tree pack e il riequilibrio di Cornucopia è ATTIVO) L'eucalipto di Cornucopia produrrà foglie tutto l'anno (e anche l'inutile corteccia! Proprio come alcuni veri eucalipti!).",
+     
+     "FruitTreesReforged.Config.CornucopiaAltWalnutTreeDisplayName": "Noce legno duro *",
+     "FruitTreesReforged.Config.CornucopiaAltWalnutTreeDescription": "(solo se stai usando Cornucopia Extended tree pack e il riequilibrio di Cornucopia è ATTIVO) Il noce di Cornucopia produrrà meno noci, ma darà legno duro in primavera e in estate.",
+     
+     "FruitTreesReforged.Config.DifficultyTitle": "Impostazioni di difficoltà",
+     "FruitTreesReforged.Config.DifficultyTooltip": "Puoi rendere più facile la gestione degli alberi da frutto con le seguenti opzioni.",
+     
+     "FruitTreesReforged.Config.IncubatorDifficultyDisplayName": "Progetto dell'incubatrice per alberi da frutto facilitato *",
+     "FruitTreesReforged.Config.IncubatorDifficultyDescription": "Rende più facile la fabbricazione delle incubatrici per alberi da frutto. Se prevedi di averne in abbondanza, questa opzione fa per te.",
+     
+     "FruitTreesReforged.Config.FertilizerDifficultyDisplayName": "Ricetta del fertilizzante per alberi da frutto facilitata *",
+     "FruitTreesReforged.Config.FertilizerDifficultyDescription": "Rende più facile la fabbricazione del fertilizzante per alberi da frutto.",
+     
+     "FruitTreesReforged.Config.RestartWarningText": "Se modifichi le opzioni contrassegnate con il simbolo * devi riavviare il gioco.",
+     
+    "FruitTreesReforged.Config.ProdMultiplierName": "Moltiplicatore di produzione",
+    "FruitTreesReforged.Config.ProdMultiplierDescription": "Oltre al riequilibrio, puoi moltiplicare da questo valore il numero di tutti i frutti prodotti dagli alberi. Predefinito 100%.",
+    
+    "FruitTreesReforged.Config.GreenhouseProdMultiplierName": "Moltiplicatore di produzione (serre)",
+    "FruitTreesReforged.Config.GreenhouseProdMultiplierDescription": "Come l'impostazione precedente, ma si applica specificatamente agli alberi da frutto piantati in serre e altri luoghi coltivabili tutto l'anno. Predefinito 40%.",
+    
+    "FruitTreesReforged.Config.LevelProdMultiplierName": "Moltiplicatore di produzione per livello fattoria",
+    "FruitTreesReforged.Config.LevelProdMultiplierDescription": "Fa aumentare lentamente il numero di frutti prodotti con il livello di abilità fattoria del giocatore principale. Al livello fattoria 0 è x1.0, al livello fattoria 10 è il valore qui impostato.",
+    
+    "FruitTreesReforged.Config.DefaultLabel": "Predefinito",
+    "FruitTreesReforged.Config.DisabledLabel": "Disabilitato",
+    "FruitTreesReforged.Config.MaximumLabel": "Max",
+     
+    "FruitTreesReforged.Config.GreenhouseDifficultyDisplayName": "Interrompi la produzione annuale nelle serre",
+    "FruitTreesReforged.Config.GreenhouseDifficultyDescription": "Attiva questa opzione per impedire agli alberi da frutto di produrre tutto l'anno nelle serre e in altri luoghi coltivabili tutto l'anno.",
+
+    "FruitTreesReforged.Config.RebalanceVMVDisplayName": "Riequilibra gli alberi da frutto di Visit Mount Vapius e i loro frutti *",
+    "FruitTreesReforged.Config.RebalanceVMVDescription": "Modifica le quantità prodotte dagli alberi da frutto di Visit Mount Vapius per adattarle meglio alle impostazioni di Fruit Trees Reforged.",
+
+    "FruitTreesReforged.Config.RebalanceNAGDisplayName": "Riequilibra gli alberi da frutto di Nando's Artisan Goods e i loro frutti *",
+    "FruitTreesReforged.Config.RebalanceNAGDescription": "Modifica i valori in oro, le statistiche e le quantità prodotte per rendere gli alberi da frutto di Nando's Artisan Goods più redditizi.",
+
+    "FruitTreesReforged.Config.RebalanceWAGDisplayName": "Riequilibra il valore in oro dei frutti degli alberi di Wildflour's Atelier Goods *",
+    "FruitTreesReforged.Config.RebalanceWAGDescription": "Gli alberi non produrranno di più, poiché sono bilanciati per soddisfare le esigenze delle ricette di WAG.",
+    
+    "FruitTreesReforged.Config.ReplaceWAGSaplingMakingDisplayName": "Sostituisci il procedimento nativo di WAG per creare nuove piantine *",
+    "FruitTreesReforged.Config.ReplaceWAGSaplingMakingDescription": "Se deselezioni questa opzione, non potrai utilizzare l'incubatrice per alberi da frutto di Wildflour's Atelier Goods.",
+    
+    "FruitTreesReforged.Config.TransgenderPomegranateTreeDisplayName": "Melograno transgender",
+    "FruitTreesReforged.Config.TransgenderPomegranateTreeDescription": "I tuoi melograni sono transgender e splendidi.",
+     
+     //In-game tips
+     
+     "FruitTreesReforged.Tips.IncubatorIndoor": "Le incubatrici per alberi da frutto devono essere posizionate all'interno.",
+     
+     "FruitTreesReforged.Tips.FertilizerAlready": "Già fertilizzato.",
+     "FruitTreesReforged.Tips.FertilizerMature": "Già cresciuto.",
+     
+}
+
+ 
